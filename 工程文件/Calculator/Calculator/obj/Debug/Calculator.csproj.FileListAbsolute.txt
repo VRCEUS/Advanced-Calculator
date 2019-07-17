@@ -1,0 +1,12 @@
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form3.resources
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\作业\系统软件开发实践\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
